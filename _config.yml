@@ -1,2 +1,5 @@
 title: Posts
 description: Thoughts, experiments, bad opinions
+
+baseurl: "/blog"
+url: "https://daszeal.github.io"
