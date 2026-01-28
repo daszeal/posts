@@ -3,3 +3,4 @@ description: Thoughts, experiments, bad opinions
 
 baseurl: "/posts"
 url: "https://daszeal.github.io"
+permalink: /:year/:month/:day/:title/
